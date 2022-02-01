@@ -1,8 +1,8 @@
-<h1 align="center">Form Validation</h1>
+<h1 align="center">Form Validator</h1>
 
 <br>
 
-<p align="center">Deploy <a href="" target="_blank">aqui!</a></p>
+<p align="center">Deploy <a href="https://vanessabrazuna.github.io/form-validator/" target="_blank">aqui!</a></p>
 
 <br>
 
