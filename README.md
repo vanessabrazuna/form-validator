@@ -1,4 +1,4 @@
-<h1 align="center">Form Validation</h1>
+<h1 align="center">Form Validator</h1>
 
 <br>
 
