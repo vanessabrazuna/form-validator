@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.registration--screen {
+    display: flex;
+    height: 100vh;
+}
+.left--side {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left--side img {
+    max-width: 600px;
+    height: auto;
+}
+.right--side {
+    width: 400px;
+    padding: 50px;
+    background-color: #DDD;
+}
+.right--side h1 {
+    color: #333;
+}
+.right--side label {
+    display: block;
+    margin-bottom: 20px;
+}
+.right--side input {
+    width: 100%;
+    padding: 10px;
+    color: #333;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    outline: none;
+}
+.error {
+    color: red;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 4px;
+    margin-top: -17px;
+}
+.right--side .button {
+    color: #000;
+    cursor: pointer;
+}
+.right--side .button:hover {
+    background-color: #CCC;
+    color: #333;
+    border: 1px solid #AAA;
+    transition: 0.5s;
+}
+@media (max-width: 600px) {
+    .registration--screen {
+        flex-direction: column;
+    }
+    .left--side {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .left--side img {
+        max-width: 100%;
+    }
+    .right--side {
+        width: 100%;
+    }
+    .right--side h1 {
+        text-align: center;
+    }
+    .register {
+        text-align: center;
+    }
+}
+@media (min-width: 601px) and (max-width: 912px) {
+    .left--side img {
+        max-width: 100%;
+        margin-bottom: 100%;
+    }
+}

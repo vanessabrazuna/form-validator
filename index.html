@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form Validation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="registration--screen">
+    <div class="left--side">
+      <img src="/images/financial_data.png" alt="financial_data">
+    </div>
+    <div class="right--side">
+      <h1>Crie uma Conta</h1>
+      <form action="cadastro.php" method="POST" id="validator">
+        <label>
+          Nome:</br>
+          <input type="text" name="name" placeholder="Insira seu nome" data-rules="required|min=3">
+        </label>
+        <label>
+          Sobrenome:</br>
+          <input type="text" name="name" placeholder="Insira seu sobrenome" data-rules="required|min=3">
+        </label>
+        <label>
+          E-mail:</br>
+          <input type="text" name="email" placeholder="Insira seu email" data-rules="required|email">
+        </label>
+        <label>
+          Senha:</br>
+          <input type="password" name="password" placeholder="Insira sua senha" data-rules="required|min=4">
+        </label>
+        <label>
+          <input class="button" type="submit" value="Cadastre-se" >
+        </label>
+      </form>
+      <div class="register">
+        Já possui uma conta? <a href="#">Faça o login</a>
+      </div>
+    </div>
+  </div>
+  <script src="/script.js"></script>
+</body>
+</html>
