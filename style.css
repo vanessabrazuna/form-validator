@@ -73,6 +73,9 @@ body {
     .right--side h1 {
         text-align: center;
     }
+    .right--side .button {
+        width: 100%;
+    }
     .register {
         text-align: center;
     }
