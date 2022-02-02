@@ -75,7 +75,8 @@ body {
     }
     .right--side .button {
         width: 100%;
-        padding: 15px;
+        padding: 20px;
+        background-color: #DDD;
         font-size: 18px;
     }
     .register {
