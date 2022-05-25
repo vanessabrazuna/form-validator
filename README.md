@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="Form Validator" src="https://user-images.githubusercontent.com/73675022/170382808-7f08419a-6f83-4668-8d34-507588e6f5cb.png" width="90%">
+  <img alt="Form Validator" src="https://user-images.githubusercontent.com/73675022/170382808-7f08419a-6f83-4668-8d34-507588e6f5cb.png" width="100%">
 </p>
 
 <hr>
