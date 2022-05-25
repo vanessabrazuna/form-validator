@@ -2,25 +2,29 @@
 
 <br>
 
-<p align="center">Deploy <a href="https://vanessabrazuna.github.io/form-validator/" target="_blank">aqui!</a></p>
+<p align="center">Deploy <a href="https://vanessabrazuna.github.io/form-validator/" target="_blank">here!</a></p>
 
 <br>
+
+<p align="center">
+  <img alt="Form Validator" src="https://user-images.githubusercontent.com/73675022/170382808-7f08419a-6f83-4668-8d34-507588e6f5cb.png" width="90%">
+</p>
 
 <hr>
 
 <br>
 
-## Sobre o Projeto
+## About the project
 
 <br>
 
-<p>Projeto de um formulário com validações nos campos, sendo um site responsivo com layouts flexiveis de acordo com o dispositivo acessado. Sendo ele smartphone, tablet ou desktop.</p>
+<p>Project of a form with validations in the fields, being a responsive site with flexible layouts according to the accessed device. Whether smartphone, tablet or desktop.</p>
 
-<p>Criado na plataforma B7Web, referente às aulas do curso de JavaScript.</p>
+<p>Created on the B7Web platform, referring to JavaScript course classes.</p>
 
 <br>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 <br>
 
